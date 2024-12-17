@@ -11,6 +11,7 @@
 ------------------------------
 
 # Robot Modeling
+![Modeled Robot Image](https://github.com/adedhi/robot-modeling/blob/main/Images/robot_modeling_image.png)
 ![GitHub](https://img.shields.io/github/license/adedhi/robot-modeling)
 
 This is a 3D robot modeling project featuring a **Mobile Suit RX-78-2 Gundam**, created using the **OpenGL** library for the CPS511: Computer Graphics course at Toronto Metropolitan University. The project implements geometric transformations, hierarchical modeling, and simple animations for robot manipulation.
